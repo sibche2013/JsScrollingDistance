@@ -1,4 +1,4 @@
-# JavaScript ScrollingDistance
+# JavaScript Scrolling Distance
 Show Distance From Top Of Brwoser When Scrolling
 
 # Online Demo
